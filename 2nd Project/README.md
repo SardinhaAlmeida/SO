@@ -1,6 +1,6 @@
 # SO_Projeto_2
 
-Este projeto que tem como objetivo a compreensão dos mecanismos associados à *execução e sincronização de processos e threads*. 
+Este projeto que tem como objetivo a compreensão dos mecanismos associados à **execução e sincronização de processos e threads**. 
 
 ## Authors
 
